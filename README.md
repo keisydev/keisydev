@@ -14,6 +14,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Development student*
 - **Tools:** Git, GitHub, VS Code
 
 ## 📫 Let's Connect!
-- [LinkedIn](#) (https://www.linkedin.com/in/keisy-rathlef-moreno/)
+- [LinkedIn](#)(https://www.linkedin.com/in/keisy-rathlef-moreno/)
 
 Thanks for visiting! 🚀✨
